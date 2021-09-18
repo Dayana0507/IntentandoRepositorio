@@ -23,6 +23,7 @@ public class PrimerRepositorio {
         System.out.println("como estan222");
         System.out.println("como estan223333");
         System.out.println("como estan222666");
+        System.out.println("Este es el proyecto 2 bimestre");
     }
     
 }
